@@ -1,2 +1,2 @@
 # Hex2024FE-React
-六角學院 2024 React 作品實戰班
+React 直播班 - 2024 冬季班
