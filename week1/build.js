@@ -2,7 +2,7 @@ const fs = require('fs-extra');
 const path = require('path');
 
 const filesToCopy = ['index.html', 'style.css'];
-const srcDir = './';
+const srcDir = './src';
 const distDir = './dist';
 
 fs.ensureDirSync(distDir);
